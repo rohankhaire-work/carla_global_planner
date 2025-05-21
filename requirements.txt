@@ -1,0 +1,4 @@
+numpy==1.23.5
+carla==0.9.15
+transforms3d
+networkx
